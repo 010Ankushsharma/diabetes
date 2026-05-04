@@ -7,7 +7,7 @@ sdk: streamlit
 sdk_version: 1.29.0
 app_file: app.py
 pinned: true
-license: mit
+license: mit  
 short_description: Advanced AI-powered diabetes risk assessment platform.
 thumbnail: >-
   https://cdn-uploads.huggingface.co/production/uploads/6474405f90330355db146c76/nmwl1Zj9z_0ijW27seqoT.png
